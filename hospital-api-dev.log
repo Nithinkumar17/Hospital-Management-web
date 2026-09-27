@@ -1,0 +1,5 @@
+
+> hospital-management-api@1.0.0 start
+> node dist/server.js
+
+Hospital API listening at http://localhost:4000
